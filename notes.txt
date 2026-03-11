@@ -1,2 +1,3 @@
 + Git helps track code.
 many changes to commit
+I do changes in github repo(remote)
