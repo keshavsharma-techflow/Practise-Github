@@ -1,2 +1,4 @@
 + Git helps track code.
 many changes to commit
+Git branches are powerful
+this is another feature
