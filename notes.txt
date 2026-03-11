@@ -1,3 +1,8 @@
 + Git helps track code.
 many changes to commit
+
 I do changes in github repo(remote)
+
+Git branches are powerful
+this is another feature
+
